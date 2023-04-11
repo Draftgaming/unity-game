@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
     public float speed = 80.0f; // Code for how fast the ball can move. Also it will be public so we can change it inside of Unity itself. 
-    public Rigidbody Player; //Player 1 Rigidbody
+    public Rigidbody2D Player; //Player 1 Rigidbody
    
 
 
